@@ -50,8 +50,11 @@
 
 .list-group-icon {
   color: lightgrey;
+  float: right;
+  margin-top: -25px;
   /*margin: 0 0 0 80%;*/
   /*align-self: ;*/
+
 }
 
 .list-group-icon-box {
